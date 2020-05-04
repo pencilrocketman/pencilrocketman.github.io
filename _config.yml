@@ -29,6 +29,8 @@ exclude:
   - "Gemfile"
   - "Gemfile.lock"
   - "vendor"
+  - "Dockerfile"
+  - "docker-compose.yml"
 
 paginate: 10
 paginate_path: "/page:num/"
